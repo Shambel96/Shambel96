@@ -23,9 +23,9 @@ I build reliable, maintainable systems and enjoy turning ideas into production-r
 *(Replace the project links and descriptions with your actual repositories.)*
 
 ## 📫 Get in touch
-- Email: your.email@company.com  
-- Website: https://yourwebsite.com  
-- Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
+- Email: shambeldechu@gmail.com  
+- Website: https://shambeldechu.com  
+- Twitter/X: [@yourhandle](https://twitter.com/dechu_shambel
 
 Open to collaborating on open source projects and freelance/contract opportunities.
 
@@ -38,4 +38,4 @@ Open to collaborating on open source projects and freelance/contract opportuniti
 
 ---
 
-If you’d like, I can personalize this further with your real name, a short bio line, and links to 2–4 representative projects. Tell me the details and I’ll update the README.
+
