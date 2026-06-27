@@ -1,16 +1,41 @@
-## Hello there 👋
+# Hi, I’m Shambel 👋
 
-<!--
-**Shambel96/Shambel96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer • Backend & DevOps
 
-Here are some ideas to get you started:
+I build reliable, maintainable systems and enjoy turning ideas into production-ready software. I focus on clean code, automated testing, and pragmatic engineering that delivers value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 I’m currently
+- Working on: improving platform reliability and shipping a CLI tool for developer productivity.  
+- Learning: advanced distributed systems patterns and observability.
+
+## 👨‍💻 Tech Stack
+- Languages: JavaScript, TypeScript, Python, Go
+- Tools & Platforms: Docker, Kubernetes, GitHub Actions, Terraform
+- Databases & Storage: PostgreSQL, Redis
+- Testing & CI: Jest, pytest, integration testing, CI pipelines
+
+## 🌟 Featured Projects
+- [Project One](https://github.com/Shambel96/project-one) — A short one-line description of what it does and your role.  
+- [Project Two](https://github.com/Shambel96/project-two) — Short description and tech used.
+
+*(Replace the project links and descriptions with your actual repositories.)*
+
+## 📫 Get in touch
+- Email: your.email@company.com  
+- Website: https://yourwebsite.com  
+- Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
+
+Open to collaborating on open source projects and freelance/contract opportunities.
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shambel96&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shambel96&layout=compact&theme=default)
+
+---
+
+If you’d like, I can personalize this further with your real name, a short bio line, and links to 2–4 representative projects. Tell me the details and I’ll update the README.
