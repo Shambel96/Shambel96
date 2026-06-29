@@ -17,7 +17,7 @@ I build reliable, maintainable systems and enjoy turning ideas into production-r
 - Testing & CI: Jest, pytest, integration testing, CI pipelines
 
 ## 🌟 Featured Projects
-- [Donkey tube](https://github.com/Shambel96/project-one) — A short one-line description   
+- [Donkey tube](donkey-tube.netlify.app) — A short one-line description   
 - [Project Two](https://github.com/Shambel96/project-two) — Short description and tech used.
 
 *(Replace the project links and descriptions with your actual repositories.)*
