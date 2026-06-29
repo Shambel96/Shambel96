@@ -18,7 +18,7 @@ I build reliable, maintainable systems and enjoy turning ideas into production-r
 
 ## 🌟 Featured Projects
 - [Donkey tube](https://github.com/Shambel96/donkey-tube) — A short one-line description   
-- [Project Two](https://github.com/Shambel96/project-two) — Short description and tech used.
+- [Amazon-Clone](https://github.com/Shambel96/amazon-clone) — Short description and tech used.
 
 *(Replace the project links and descriptions with your actual repositories.)*
 
