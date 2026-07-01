@@ -1,38 +1,183 @@
-## Hi, I'm Shambel Dechu 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Shambel+Dechu+👋;Software+Engineer;Full-Stack+Developer;Backend+%26+DevOps+Enthusiast;Always+Learning+New+Things" />
+</p>
 
-Software Engineer • Backend & DevOps
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Shambel96&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-I build reliable, maintainable systems and enjoy turning ideas into production-ready software. I focus on clean code, automated testing, and pragmatic engineering that delivers value.
+### Hi there, I'm Shambel Dechu 👋
 
----
+<h3 align="center">Software Engineer • Full-Stack Developer • Backend & DevOps Enthusiast</h3>
 
-## 🔭 I'm currently
-- Working on: improving platform reliability and shipping a CLI tool for developer productivity.  
-- Learning: advanced distributed systems patterns and observability.
+<p align="center">
+I build scalable, reliable, and maintainable web applications with a strong focus on clean architecture, automation, testing, and developer experience.
+</p>
 
-## 👨‍💻 Tech Stack
-- Languages: JavaScript, TypeScript, Python, Go
-- Tools & Platforms: Docker, Kubernetes, GitHub Actions, Terraform
-- Databases & Storage: PostgreSQL, Redis
-- Testing & CI: Jest, pytest, integration testing, CI pipelines
+<p align="center">
+  <a href="https://github.com/Shambel96">
+    <img src="https://img.shields.io/github/followers/Shambel96?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
 
-## 🌟 Featured Projects
-- [Donkey tube](https://github.com/Shambel96/donkey-tube) — A short one-line description   
-- [Amazon-Clone](https://github.com/Shambel96/amazon-clone) — Short description and tech used.
+  <a href="https://shambeldechu.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/>
+  </a>
 
-## 📫 Get in touch
-- Email: shambeldechu@gmail.com  
-- Website: https://shambeldechu.com  
-- Twitter/X: [@dechu_shambel](https://twitter.com/dechu_shambel)
+  <a href="mailto:shambeldechu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
 
-Open to collaborating on open source projects and freelance/contract opportunities.
-
----
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shambel96&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shambel96&layout=compact&theme=default)
+  <a href="https://twitter.com/dechu_shambel">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
+  </a>
+</p>
 
 ---
 
+# 🚀 About Me
+
+- 🔭 Currently improving platform reliability.
+- 🚀 Building a CLI tool for developer productivity.
+- 🌱 Learning **Go**, **Distributed Systems**, and **Observability**.
+- 💡 Passionate about Backend Engineering, DevOps, and Cloud Infrastructure.
+- 🤝 Open to Open Source, Freelance, Contract, and Full-time opportunities.
+- ⚡ I enjoy solving real-world problems with clean and maintainable code.
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,vite,tailwind" />
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,go" />
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+## ☁️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash,postman,vscode" />
+</p>
+
+## 🧪 Testing
+
+- ✅ Jest
+- ✅ Pytest
+- ✅ Integration Testing
+- ✅ REST API Testing
+- ✅ GitHub Actions
+- ✅ CI/CD
+
+---
+
+# 🌟 Featured Projects
+
+### 🎬 Donkey Tube
+A YouTube-inspired video sharing platform with authentication, uploads, and video management.
+
+🔗 https://github.com/Shambel96/donkey-tube
+
+---
+
+### 🛒 Amazon Clone
+A full-stack Amazon-inspired eCommerce application featuring authentication and shopping functionality.
+
+🔗 https://github.com/Shambel96/amazon-clone
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shambel96&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shambel96&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Shambel96&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shambel96&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 📋 GitHub Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shambel96&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shambel96&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shambel96&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shambel96&theme=onedark&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:shambeldechu@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Shambel96">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://twitter.com/dechu_shambel">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://shambeldechu.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+
+  <br><br>
+
+  ⭐ From <a href="https://github.com/Shambel96">Shambel96</a>
+</p>
