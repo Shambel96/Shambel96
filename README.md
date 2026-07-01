@@ -1,4 +1,4 @@
-# Hi, I’m Shambel Dechu 👋
+# Hi, I'm Shambel Dechu 👋
 
 Software Engineer • Backend & DevOps
 
@@ -6,7 +6,7 @@ I build reliable, maintainable systems and enjoy turning ideas into production-r
 
 ---
 
-## 🔭 I’m currently
+## 🔭 I'm currently
 - Working on: improving platform reliability and shipping a CLI tool for developer productivity.  
 - Learning: advanced distributed systems patterns and observability.
 
@@ -20,12 +20,10 @@ I build reliable, maintainable systems and enjoy turning ideas into production-r
 - [Donkey tube](https://github.com/Shambel96/donkey-tube) — A short one-line description   
 - [Amazon-Clone](https://github.com/Shambel96/amazon-clone) — Short description and tech used.
 
-*(Replace the project links and descriptions with your actual repositories.)*
-
 ## 📫 Get in touch
 - Email: shambeldechu@gmail.com  
 - Website: https://shambeldechu.com  
-- Twitter/X: [@yourhandle](https://twitter.com/dechu_shambel
+- Twitter/X: [@dechu_shambel](https://twitter.com/dechu_shambel)
 
 Open to collaborating on open source projects and freelance/contract opportunities.
 
@@ -37,5 +35,4 @@ Open to collaborating on open source projects and freelance/contract opportuniti
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shambel96&layout=compact&theme=default)
 
 ---
-
 
