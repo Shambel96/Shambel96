@@ -34,7 +34,7 @@ I build scalable, reliable, and maintainable web applications with a strong focu
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🔭 Currently improving platform reliability.
 - 🚀 Building a CLI tool for developer productivity.
@@ -45,44 +45,22 @@ I build scalable, reliable, and maintainable web applications with a strong focu
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 🎨 Frontend
+| Category | Technologies |
+|----------|--------------|
+| 🎨 **Frontend** | HTML5, CSS3, JavaScript (ES6+), TypeScript, Vue.js, Nuxt.js, Tailwind CSS, Vite |
+| ⚙️ **Backend** | Node.js, Express.js, NestJS, Python, Go (Learning) |
+| 🗄️ **Databases** | PostgreSQL, MongoDB, MySQL |
+| ☁️ **DevOps & Tools** | Docker, Git, GitHub, GitHub Actions, Linux, Bash, Postman, VS Code |
+| 🧪 **Testing** | Jest, Pytest, Integration Testing, REST API Testing |
+| 📦 **Package Managers** | npm, pnpm |
+| 🔧 **Development Practices** | REST APIs, CI/CD, Clean Architecture, Agile, Git Workflow |
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,vite,tailwind" />
-</p>
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,go" />
-</p>
-
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
-
-## ☁️ DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash,postman,vscode" />
-</p>
-
-## 🧪 Testing
-
-- ✅ Jest
-- ✅ Pytest
-- ✅ Integration Testing
-- ✅ REST API Testing
-- ✅ GitHub Actions
-- ✅ CI/CD
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
 ### 🎬 Donkey Tube
 A YouTube-inspired video sharing platform with authentication, uploads, and video management.
@@ -98,7 +76,7 @@ A full-stack Amazon-inspired eCommerce application featuring authentication and 
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shambel96&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
@@ -108,7 +86,7 @@ A full-stack Amazon-inspired eCommerce application featuring authentication and 
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Shambel96&theme=tokyonight&hide_border=true"/>
@@ -116,7 +94,7 @@ A full-stack Amazon-inspired eCommerce application featuring authentication and 
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shambel96&theme=tokyo-night&hide_border=true"/>
@@ -124,7 +102,7 @@ A full-stack Amazon-inspired eCommerce application featuring authentication and 
 
 ---
 
-# 📋 GitHub Profile Summary
+## 📋 GitHub Profile Summary
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shambel96&theme=tokyonight"/>
@@ -138,7 +116,7 @@ A full-stack Amazon-inspired eCommerce application featuring authentication and 
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Shambel96&theme=onedark&no-frame=true&no-bg=true&margin-w=10"/>
@@ -146,24 +124,24 @@ A full-stack Amazon-inspired eCommerce application featuring authentication and 
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
 
 <a href="mailto:shambeldechu@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
 </a>
 
 <a href="https://github.com/Shambel96">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="30"/>
 </a>
 
 <a href="https://twitter.com/dechu_shambel">
-<img src="https://skillicons.dev/icons?i=twitter"/>
+<img src="https://skillicons.dev/icons?i=twitter" height="30"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/shambel-dechu">
+<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
 </a>
 
 <a href="https://shambeldechu.com">
