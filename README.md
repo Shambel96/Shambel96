@@ -52,7 +52,7 @@ I build scalable, reliable, and maintainable web applications with a strong focu
 | 🎨 **Frontend** | HTML5, CSS3, JavaScript (ES6+), TypeScript, Vue.js, Nuxt.js, Tailwind CSS, Vite |
 | ⚙️ **Backend** | Node.js, Express.js, NestJS, Python, Go (Learning) |
 | 🗄️ **Databases** | PostgreSQL, MongoDB, MySQL |
-| ☁️ **DevOps & Tools** | Docker, Git, GitHub, GitHub Actions, Linux, Bash, Postman, VS Code |
+| ☁️ **DevOps & Tools** | Docker, Git, GitHub, GitHub Actions, Linux, Bash, Postman, VS Code, Leetcode |
 | 🧪 **Testing** | Jest, Pytest, Integration Testing, REST API Testing |
 | 📦 **Package Managers** | npm, pnpm |
 | 🔧 **Development Practices** | REST APIs, CI/CD, Clean Architecture, Agile, Git Workflow |
@@ -62,17 +62,17 @@ I build scalable, reliable, and maintainable web applications with a strong focu
 
 ## 🌟 Featured Projects
 
-### 🎬 Donkey Tube
+#### 🎬 [Donkey Tube](https://github.com/Shambel96/donkey-tube)
+
 A YouTube-inspired video sharing platform with authentication, uploads, and video management.
 
-🔗 https://github.com/Shambel96/donkey-tube
+#### 🛒 [Amazon Clone](https://github.com/Shambel96/amazon-clone)
 
----
-
-### 🛒 Amazon Clone
 A full-stack Amazon-inspired eCommerce application featuring authentication and shopping functionality.
 
-🔗 https://github.com/Shambel96/amazon-clone
+#### 🚀 More Projects
+
+➡️ [View all repositories](https://github.com/Shambel96?tab=repositories)
 
 ---
 
