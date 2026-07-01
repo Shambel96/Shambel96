@@ -1,4 +1,4 @@
-# Hi, I'm Shambel Dechu 👋
+## Hi, I'm Shambel Dechu 👋
 
 Software Engineer • Backend & DevOps
 
