@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Shambel+Dechu+👋;Software+Engineer;Full-Stack+Developer;Backend+%26+DevOps+Enthusiast;Always+Learning+New+Things" />
-</p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shambel96&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-
-### Hi there, I'm Shambel Dechu 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Shambel+Dechu+👋;Software+Engineer;Full-Stack+Developer;Backend+%26+DevOps+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 <h3 align="center">Software Engineer • Full-Stack Developer • Backend & DevOps Enthusiast</h3>
 
