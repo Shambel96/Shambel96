@@ -113,14 +113,6 @@ A full-stack Amazon-inspired eCommerce application featuring authentication and 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shambel96&theme=onedark&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
 </p>
