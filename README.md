@@ -121,38 +121,6 @@ A full-stack Amazon-inspired eCommerce application featuring authentication and 
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:shambeldechu@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
-</a>
-
-<a href="https://github.com/Shambel96">
-<img src="https://skillicons.dev/icons?i=github" height="30"/>
-</a>
-
-<a href="https://twitter.com/dechu_shambel">
-<img src="https://skillicons.dev/icons?i=twitter" height="30"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shambel-dechu">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
-</a>
-
-<a href="https://shambeldechu.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
-
-  <br><br>
-
-  ⭐ From <a href="https://github.com/Shambel96">Shambel96</a>
 </p>
