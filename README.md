@@ -16,7 +16,7 @@ I build scalable, reliable, and maintainable web applications with a strong focu
     <img src="https://img.shields.io/github/followers/Shambel96?style=for-the-badge&logo=github&label=Followers"/>
   </a>
 
-  <a href="[shambel-dechu.vercel.app](https://shambel-dechu.vercel.app/)">
+  <a href="https://shambel-dechu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/>
   </a>
 
