@@ -12,19 +12,19 @@ I build scalable, reliable, and maintainable web applications with a strong focu
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shambel96">
+  <a target="_blank" href="https://github.com/Shambel96">
     <img src="https://img.shields.io/github/followers/Shambel96?style=for-the-badge&logo=github&label=Followers"/>
   </a>
 
-  <a href="https://shambel-dechu.vercel.app/">
+  <a target="_blank" href="https://shambel-dechu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/>
   </a>
 
-  <a href="mailto:shambeldechu@gmail.com">
+  <a target="_blank" href="mailto:shambeldechu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 
-  <a href="https://twitter.com/dechu_shambel">
+  <a target="_blank" href="https://twitter.com/dechu_shambel">
     <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
   </a>
 </p>
