@@ -73,43 +73,13 @@ A full-stack Amazon-inspired eCommerce application featuring authentication and 
 
 ---
 
-## 📊 GitHub Statistics
+## 📬 Contact
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shambel96&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shambel96&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Shambel96&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shambel96&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 📋 GitHub Profile Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shambel96&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shambel96&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shambel96&theme=tokyonight"/>
-</p>
+- 🌐 **Portfolio:** https://shambel-dechu.vercel.app/
+- 📧 **Email:** mailto:shambeldechu@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shambel-dechu/
+- 🐙 **GitHub:** https://github.com/Shambel96
+- 🐦 **X (Twitter):** https://x.com/dechu_shambel
 
 ---
 
