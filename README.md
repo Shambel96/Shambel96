@@ -35,7 +35,7 @@ I build scalable, reliable, and maintainable web applications with a strong focu
 
 - 🔭 Currently improving platform reliability.
 - 🚀 Building a CLI tool for developer productivity.
-- 🌱 Learning **Go**, **Distributed Systems**, and **Observability**.
+- 🌱 Learning **Distributed Systems**, and **Observability**.
 - 💡 Passionate about Backend Engineering, DevOps, and Cloud Infrastructure.
 - 🤝 Open to Open Source, Freelance, Contract, and Full-time opportunities.
 - ⚡ I enjoy solving real-world problems with clean and maintainable code.
