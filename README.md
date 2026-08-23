@@ -82,5 +82,5 @@ A full-stack Amazon-inspired eCommerce application featuring authentication and 
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <i>"Aim to be the single point of failure — the one they cannot tolerate to lose."</i>
 </p>
