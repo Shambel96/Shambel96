@@ -74,11 +74,10 @@ A full-stack Amazon-inspired eCommerce application featuring authentication and 
 ---
 
 ## 📬 Contact
-
-- 🌐 **Portfolio:** https://shambel-dechu.vercel.app/
-- 📧 **Email:** mailto:shambeldechu@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/shambel-dechu/
-- 🐦 **X (Twitter):** https://x.com/dechu_shambel
+- 🌐 **Portfolio:** [shambel-dechu.vercel.app](https://shambel-dechu.vercel.app/)
+- 📧 **Email:** [shambeldechu@gmail.com](mailto:shambeldechu@gmail.com)
+- 💼 **LinkedIn:** [Shambel Dechu](https://www.linkedin.com/in/shambel-dechu/)
+- 🐦 **X (Twitter):** [@dechu_shambel](https://x.com/dechu_shambel)
 
 ---
 
