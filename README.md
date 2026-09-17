@@ -67,6 +67,10 @@ A YouTube-inspired video sharing platform with authentication, uploads, and vide
 
 A full-stack Amazon-inspired eCommerce application featuring authentication and shopping functionality.
 
+#### 🛒 [Netflix Clone](https://github.com/Shambel96/netflix-clone)
+
+A full-stack Amazon-inspired eCommerce application featuring authentication and shopping functionality.
+
 #### 🚀 More Projects
 
 ➡️ [View all repositories](https://github.com/Shambel96?tab=repositories)
