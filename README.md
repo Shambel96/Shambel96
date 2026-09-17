@@ -47,7 +47,7 @@ I build scalable, reliable, and maintainable web applications with a strong focu
 | Category | Technologies |
 |----------|--------------|
 | 🎨 **Frontend** | HTML5, CSS3, JavaScript (ES6+), TypeScript, Vue.js, Nuxt.js, Tailwind CSS, Vite |
-| ⚙️ **Backend** | Node.js, Express.js, NestJS, Python, Go (Learning) |
+| ⚙️ **Backend** | Node.js, Express.js, NestJS, Python(Learning) |
 | 🗄️ **Databases** | PostgreSQL, MongoDB, MySQL |
 | ☁️ **DevOps & Tools** | Docker, Git, GitHub, GitHub Actions, Linux, Bash, Postman, VS Code, Leetcode |
 | 🧪 **Testing** | Jest, Pytest, Integration Testing, REST API Testing |
