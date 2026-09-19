@@ -33,7 +33,7 @@ I build scalable, reliable, and maintainable web applications with a strong focu
 
 ## 🚀 About Me
 
-- 🔭 Currently improving platform reliability.
+- 🔭 Currently working as intern at smartTech Solutions
 - 🚀 Building a CLI tool for developer productivity.
 - 🌱 Learning **Distributed Systems**, and **Observability**.
 - 💡 Passionate about Backend Engineering, DevOps, and Cloud Infrastructure.
