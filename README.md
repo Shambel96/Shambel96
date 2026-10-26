@@ -59,6 +59,10 @@ I build scalable, reliable, and maintainable web applications with a strong focu
 
 ## 🌟 Featured Projects
 
+#### 🎬 [RideLink](https://github.com/Shambel96/RideLink)
+
+RideLink is a ride-hailing platform built with NestJS, PostgreSQL, and Redis, featuring secure authentication, driver verification, real-time availability tracking, and intelligent ride assignment.
+
 #### 🎬 [Donkey Tube](https://github.com/Shambel96/donkey-tube)
 
 A YouTube-inspired video sharing platform with authentication, uploads, and video management.
